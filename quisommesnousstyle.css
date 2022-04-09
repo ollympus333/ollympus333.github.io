@@ -1,0 +1,138 @@
+nav ul li{ 
+  display: inline-block;
+  
+  
+  vertical-align:bottom;
+  
+}
+.onglet{ margin-left: 20px  ;
+  padding-top:35px;
+  padding-bottom: 25px;
+  padding-right:5px; 
+  font-family: arial;
+   font-size: 21px;
+  
+
+
+ }
+
+.logo { margin-right: 35px  ;
+  font-family: Century Gothic;
+    padding-bottom:23px;
+    
+    color: white;
+      font-size: 35px;
+     font-weight:bold;
+
+}
+
+ header{ background-color:lightblue;
+        width: 85%;
+        height:125px;
+        margin:auto;
+  
+  }
+
+
+
+
+
+
+
+
+
+a:hover{
+  color:white;
+  font-size:24px;
+  font-family:comic sans ms;
+  font-weight:bold;
+  
+}
+
+
+
+
+
+
+ .texte {
+  font-family: Century Gothic;
+    
+    
+    color: darkblue;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{ 
+
+
+background:lightblue;
+
+margin-top:45px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+
+
+width:85%;
+
+padding-top:50px;
+
+height:auto;
+
+bottom:0px;
+
+
+
+}
+
+
+
+
+.row{ 
+
+ width:85%;
+
+ margin: auto;
+
+ display: flex;
+ 
+ flex-wrap: wrap;
+
+
+}
+
+.col { 
+
+margin: auto;
+margin-top: 3px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
